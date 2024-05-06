@@ -19,5 +19,8 @@
             "dataChangeConfirmVerificationSentMessageText": "Вам был отправлен код безопасности{0}. Введите его, чтобы завершить изменение ваших данных.",
             "deleteReminderButtonHint": "Стереть {0}"
         }
+    },
+    "lokalisedemomodule": {
+        "demo_text": "Демонстрационный текст"
     }
 }
