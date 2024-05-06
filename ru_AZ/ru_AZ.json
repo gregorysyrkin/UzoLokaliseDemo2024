@@ -1,0 +1,23 @@
+{
+    "common": {
+        "account": "Аккаунт",
+        "accountSelection": {
+            "localAccountSelectionListTitle": "Аккаунты, требующие действий",
+            "uzoAccountSelectionListTitle": "Выберите аккаунт, с которым вы хотите войти"
+        }
+    },
+    "components": {
+        "accordionlist": {
+            "collapsedItemSpokenText": "Свернутый элемент",
+            "expandedItemSpokenText": "Расширенный элемент"
+        }
+    },
+    "isRtl": "0",
+    "locale": "en",
+    "pages": {
+        "accountdetailscategory": {
+            "dataChangeConfirmVerificationSentMessageText": "Вам был отправлен код безопасности{0}. Введите его, чтобы завершить изменение ваших данных.",
+            "deleteReminderButtonHint": "Стереть {0}"
+        }
+    }
+}
