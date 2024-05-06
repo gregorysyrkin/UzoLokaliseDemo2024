@@ -21,6 +21,7 @@
         }
     },
     "lokalisedemomodule": {
-        "demo_text": "Демонстрационный текст"
+        "demo_text": "Демонстрационный текст",
+        "click_me_to_do_the_magic": "Нажмите на меня для волшебства"
     }
 }
