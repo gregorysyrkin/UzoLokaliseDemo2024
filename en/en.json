@@ -1,0 +1,23 @@
+{
+    "common": {
+        "account": "Account",
+        "accountSelection": {
+            "localAccountSelectionListTitle": "Accounts requiring action",
+            "uzoAccountSelectionListTitle": "Choose the account you want to login with"
+        }
+    },
+    "components": {
+        "accordionlist": {
+            "collapsedItemSpokenText": "Collapsed item",
+            "expandedItemSpokenText": "Expanded item"
+        }
+    },
+    "isRtl": "0",
+    "locale": "en",
+    "pages": {
+        "accountdetailscategory": {
+            "dataChangeConfirmVerificationSentMessageText": "A security code has been sent to you{0}. Enter it to finish changing your data.",
+            "deleteReminderButtonHint": "Delete {0}"
+        }
+    }
+}
