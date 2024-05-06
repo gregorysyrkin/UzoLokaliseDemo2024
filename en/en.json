@@ -21,6 +21,7 @@
         }
     },
     "lokalisedemomodule": {
-        "demo_text": "Demo text"
+        "demo_text": "Demo text",
+        "click_me_to_do_the_magic": "Click me to Do the Magic"
     }
 }
