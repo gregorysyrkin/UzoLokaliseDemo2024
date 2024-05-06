@@ -19,5 +19,8 @@
             "dataChangeConfirmVerificationSentMessageText": "A security code has been sent to you{0}. Enter it to finish changing your data.",
             "deleteReminderButtonHint": "Delete {0}"
         }
+    },
+    "lokalisedemomodule": {
+        "demo_text": "Demo text"
     }
 }
