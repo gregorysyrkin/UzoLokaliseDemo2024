@@ -23,5 +23,9 @@
     "lokalisedemomodule": {
         "demo_text": "Demo text",
         "click_me_to_do_the_magic": "Click me to Do the Magic"
+    },
+    "demomoduletuesday": {
+        "weareexample": "WE ARE GREAT #2",
+        "weareexampletoo": "we are great too\n"
     }
 }
